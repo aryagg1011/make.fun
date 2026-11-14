@@ -1,2 +1,60 @@
-#coding:l1
-import lzma;exec(lzma.decompress('\0 \0\0,\0\0\0\0\0\0\x004œ%Å¯^´Ìû•2i%]Æ×ˆ6œcçş›è˜‰¸•c6†54qÕ#BÖÂÈ)İØM¸ç2^Iç÷h$	y÷™—™tÓp’xÁ·M[âˆ_\0|×Æº:ôíF1•VÛm&E£A¢Œ H7@`N‘r$¹ü¢ŠJ•¯´<©Ô¨©óŠD;ÏÅŸ´_\x002ÚéôqR~|ü]5>F÷"v­SÎÆP^4ÔÍ£G¡?s±¸ªÕ€¿ĞÉm¿õÁ?V/Æ#ı¾*3òXÒy¥°Í[Ó²Ö9özH<Çe]*Ke¯ŠtŸ?ÏÈ &âWÁszÉ—İİĞb\0Öü´ÎìíI,:¾É,ô{A‰ƒÏ1SVG\'Ã âgY{ÂfÄû“2ô[§3¨ Ğ@	é¶r7Ú`®åäè¼—Œc#ˆõÕù‰j€¾”¢°ğ~Ÿcg<é­ŠËEGÊ³d®¤¦“ÌÓ¼×ö¸[;Dy²ºñÄ€–ˆĞ’é\'U*Åg\'ô¦UœÊFËÈt(®€[5›ZTÏQfµ_&Ãk´H¡—“CFäsébld*º¦&Õî®@è§"b•[\nÂŞ¹²ÑWĞk®¦¼ \\îvâ»Ğô/à¢ÂWÔZÀC^UÒ+}9*¼éÓw7k§Æ…Î‚àå‘\rí×´q›ñÆm!çj„nŠ·àÌ.7ŞòÁ#x_ª§íÔ‰¬4áÜ‘j\nÄ3óv‰\'\r’1¨Îds‚ş_RÁ"–R‡\r:îŞJ¸ğàƒ"_B÷§PÜ“Q)ÙB9.™?r%£_uÂlÙ–X6DfP.™—Àê%Ş•Ş«íY9¢·TAÌ!l,¸.¾TèwÀrÉ¶µ­ëu”K0¦§d½YÀÃX%d¿Q¦ÍêàñÅÖ¨¬0€ƒ\'Õè-=f&3²àß5¦ŸHËõ°še>«§=Š«\0OQi{‹3uc]"ÉNåı¡K‰×CCf(ã™VÛsÚÛoûk¢ŸCzmòÚ-ÎÔÑ»«øMêâV„Èxá¿Â	ìÀÉáÒ°šÖbf”F”VÙ’Æ!B.ğİ1m‘£‚,¨=z©vP°BĞÿJ´LÁx(ÏZÖzøÀÑèÛD(¶K(%¸/ŠİT\nc8?â½A‹[q::øNúväû±ß¿ôê‚ 2íİ¼{®8&l&ãiô?ıö]5®+-¿=F_Fy²“Nš¬©Î„ò£ãÿÁ=G\n	l…ÿ+‰äÄXÈûxÿÄÖ\0­Yô«ŞnSÄ\r†âz³qÒ+b0Z\r„½æñ>–êâF"¾ Ñ¯eÃÎ&Ø]ù¨%G`	_N]y’Ò7	œSÜoÒÍàT>\'%Í‰.·SZ4õÊ‹ZÕb/C•h	Š.|†A¾aÓqô+CSœTçuÓ9 7	8›æ1yŞ#›™(Q¢›U¹ê¼ØÏNÓª¿¬uE~š@¶›År‹ß¾ÁLåU>oP1qç\0ÑÉeùou9ˆª†·Ûcs›Õ¡oêš¸|[¦yUúRÊr{Üz©ñ#OÿF/-c7)FõıOâñ¼aKfİfåDÙ%/¥Q‘-F÷cÂú¥5»äÑ0UÆåxÄËDéëâa>òo—ˆG£ŸÒ[&ëÁ,şmoÖŸ¤0SC"6ãèqsÚ^R¤\\±¥B7Q›„‹òØ³şµÜzØÅn‡ªBÍ§BÄµ¾¾x5kl¢bX{[š.{RÆÍ%d‰`‘¶«zœWƒT"o8Ô´¾uA_EĞ¤b‚Æ—\0Úã}ÓóµøZ‰!ò;½Ôcâ\nêI¤‘Ş^Íë^¨r\'"½nÀèm—ì»eƒh&İµğš©‘j‰Es»äÿïÂÅãc7:çõ\0Û\r£ dy!U5°ˆ;}óIé×6r5©ı=TÙ®ãû%ÃÿÃî¡6ÖIïB[;ï6èPQmÄ?ª¥tg?` f3©	"Ú©xnÁ;A\0oV‡;Mí5„xIcoc¼Q‡-Éh”EÛÓóÖ¾ë¾›n¬L\n¹&“B+¸ á%®÷–‹ô×b ‰W¼uyíFê‡ü½ı9Ø"ø¤ªçÀ€Ër (¤rZtW&ÌS}m7ô)½+ú¡Â,æî!ôè}¬±˜Ç™#x¢™ÙëÿG-§ÈS_„#Pø9äØôiIHÍšïAjì×2‚½`KUĞ(éi¬NMÎ§ğ®gG!Ia/« "9’¿”ÒMIíyn_£3k1Œ†‹›ÑD;(\nÎl?Ø‘‚Ub_BçıŞ>²ô_Ëæı9ı)<0`(ä*oÊÆ:Òİò‘\rIë@í´oÅ!Qğ‹fÄü»ì¸kıèŒIÒhõÁyÆaÑÊÕºª‡\0¶’ôĞ>£³ç’ø-O9•bWLØ\n!cŸU½‰8¶ËáÇ	ÿÀ1¦•gæ²ÜUN¹¨2ôú@—óÉ»Ó~Ï˜{A£è 2ºeÑ4Ç\nİ2‚XßÏ¨,Áì¨×£H4æ¹h˜òçZsónÏÒg#(e=E@^Ó±ùM¬ÄÉ\\åß jÙ2şj8³X·Ö\'u&@Z«È•^tÏ½D¾á–‘Ê*Ó§. ÑÓ»Ãä#0Ÿ‡2.zJ>|~bŸäi/¡ÌŠ5Ak÷(\0ødğsE§.Wµ‹,%š‡óJx¼Z‘ğzxÃ3\rGn¿š8C~¸º&7¦‘ê†[;wSU|Òâ8m=‚e·	ó	#ÓsLAÿE?}“"îø\n½ë9ª)ØDj%¨·¹	Àß?ğÛÇÂv‘(›áçu¸óA,Ô+‹îÂ¾Ó¨3Ë÷à¸ÂÉ”PL$Tu"®zD˜åØ™"ğj lp/Šâ%Á„’„©q¤‰~œA;¾î"ïX†#FÒ6®x<fMı,Œá;¹\\yRIˆ,‡0o:•ò2ñmäôÃC.ï_®Û…_é”à»ç¸šJv¡$Œû?ä–‡¥D¸%A]·B‘×ÀL«˜~%˜õŞòe!ÙGSI)¸QäzA@\'òè®’Pü¼Ìªm_™ûŒ\0µØK¥Ò\03†{¬É‰‰òØ<àı…/˜¨ER(Šd[ñÓ ûÊeœìgç;ï¦í‰¿²®º^"aïŠ\n…—õôæ÷Ÿ»Î|ı%ßLiºï€+ÊzzÙ“t+Ø$n<‹(„ŞçâÕ’Lù-³/CNƒ+CìíÒŠ9~Œ.ïº+¡ië*­­HÓùÂ>sô bàíªg}iÛJ¥U`BP$VyúÃ äækß«D'.encode('l1')))
+from __future__ import annotations
+
+import json
+import math
+import os
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from forecast import forecast_market
+
+PARAMS = {
+    "step": 30,
+    "price_band": 0.15,
+    "half_life": 720.0,
+    "empirical_blend": 0.80,
+    "peer_blend": 0.50,
+    "max_origins": 4,
+}
+
+
+def make_output(case: dict) -> dict:
+    histories = [m["prices"] for m in case["markets"]]
+    rows = []
+    for market in case["markets"]:
+        q = forecast_market(
+            market["prices"], int(case["horizon_minutes"]),
+            model="hybrid", peer_histories=histories, **PARAMS,
+        )
+        rows.append({"id": market["id"], "q": q})
+    return {"forecasts": rows}
+
+
+def main() -> None:
+    input_dir = Path(os.environ.get("MAKEFUN_INPUT_DIR", "/input"))
+    output_dir = Path(os.environ.get("MAKEFUN_OUTPUT_DIR", "/output"))
+    output_dir.mkdir(parents=True, exist_ok=True)
+    for source in sorted(input_dir.glob("*.in"), key=lambda p: p.name):
+        case = json.loads(source.read_text(encoding="utf-8"))
+        result = make_output(case)
+        expected = {m["id"] for m in case["markets"]}
+        got = {row["id"] for row in result["forecasts"]}
+        if got != expected or len(result["forecasts"]) != len(expected):
+            raise ValueError(f"market coverage mismatch in {source.name}")
+        for row in result["forecasts"]:
+            if len(row["q"]) != int(case["horizon_minutes"]):
+                raise ValueError(f"horizon mismatch for {row['id']}")
+            for values in row["q"]:
+                if len(values) != 5 or any(not math.isfinite(v) or not 0 <= v <= 1 for v in values):
+                    raise ValueError(f"invalid quantile row for {row['id']}")
+                if values != sorted(values):
+                    raise ValueError(f"unordered quantiles for {row['id']}")
+        target = output_dir / f"{case['case']}.out"
+        target.write_text(json.dumps(result, separators=(",", ":"), allow_nan=False), encoding="utf-8")
+        if target.stat().st_size > 1_048_576:
+            raise ValueError(f"output too large for {case['case']}")
+
+
+if __name__ == "__main__":
+    main()
